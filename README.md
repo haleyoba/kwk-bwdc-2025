@@ -1,6 +1,6 @@
 # Employment Scrollytelling Website
 
-This project is a Svelte-powered scrollytelling experience that visualizes employment-population ratios across different racial and ethnic groups as part of the KWK x BWDC 2025 Challenge. As you scroll through the site, interactive charts and maps gradually reveal how geography, industry, wages, and transportation intersect with employment trends,uncovering ethnic disparities and guiding deeper understanding.
+This project is a Svelte-powered scrollytelling experience that explores how employment-population ratios across different racial and ethnic groups combined with educational attainment data serves as an indicator of Black wealth as part of the KWK x BWDC 2025 Challenge.
 
 ---
 
