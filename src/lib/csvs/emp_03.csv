@@ -1,0 +1,1381 @@
+year,date,rate_type,rate,race_or_ethnicity
+2014,2014-07-01,Unemployment Rate,4.2,Asian
+2014,2014-09-01,Unemployment Rate,4.4,Asian
+2014,2014-12-01,Unemployment Rate,4.4,Asian
+2014,2014-08-01,Unemployment Rate,4.5,Asian
+2014,2014-01-01,Unemployment Rate,4.7,Asian
+2014,2014-12-01,Unemployment Rate,4.7,White
+2014,2014-06-01,Unemployment Rate,4.7,Asian
+2014,2014-11-01,Unemployment Rate,4.8,Asian
+2014,2014-10-01,Unemployment Rate,4.9,White
+2014,2014-11-01,Unemployment Rate,5.0,White
+2014,2014-10-01,Unemployment Rate,5.1,Asian
+2014,2014-09-01,Unemployment Rate,5.1,White
+2014,2014-07-01,Unemployment Rate,5.3,White
+2014,2014-08-01,Unemployment Rate,5.3,White
+2014,2014-04-01,Unemployment Rate,5.3,White
+2014,2014-06-01,Unemployment Rate,5.3,White
+2014,2014-05-01,Unemployment Rate,5.4,White
+2014,2014-03-01,Unemployment Rate,5.5,Asian
+2014,2014-05-01,Unemployment Rate,5.7,Asian
+2014,2014-01-01,Unemployment Rate,5.7,White
+2014,2014-02-01,Unemployment Rate,5.8,White
+2014,2014-03-01,Unemployment Rate,5.8,White
+2014,2014-04-01,Unemployment Rate,5.9,Asian
+2014,2014-02-01,Unemployment Rate,5.9,Asian
+2014,2014-12-01,Unemployment Rate,6.4,Hispanic
+2014,2014-11-01,Unemployment Rate,6.6,Hispanic
+2014,2014-10-01,Unemployment Rate,6.8,Hispanic
+2014,2014-09-01,Unemployment Rate,6.8,Hispanic
+2014,2014-04-01,Unemployment Rate,7.2,Hispanic
+2014,2014-08-01,Unemployment Rate,7.4,Hispanic
+2014,2014-07-01,Unemployment Rate,7.7,Hispanic
+2014,2014-05-01,Unemployment Rate,7.7,Hispanic
+2014,2014-06-01,Unemployment Rate,7.8,Hispanic
+2014,2014-03-01,Unemployment Rate,7.9,Hispanic
+2014,2014-02-01,Unemployment Rate,8.2,Hispanic
+2014,2014-01-01,Unemployment Rate,8.3,Hispanic
+2014,2014-12-01,Unemployment Rate,10.6,Black
+2014,2014-10-01,Unemployment Rate,10.6,Black
+2014,2014-11-01,Unemployment Rate,10.9,Black
+2014,2014-09-01,Unemployment Rate,11.0,Black
+2014,2014-06-01,Unemployment Rate,11.0,Black
+2014,2014-05-01,Unemployment Rate,11.4,Black
+2014,2014-08-01,Unemployment Rate,11.4,Black
+2014,2014-07-01,Unemployment Rate,11.6,Black
+2014,2014-04-01,Unemployment Rate,11.6,Black
+2014,2014-02-01,Unemployment Rate,11.8,Black
+2014,2014-01-01,Unemployment Rate,12.1,Black
+2014,2014-03-01,Unemployment Rate,12.1,Black
+2014,2014-01-01,Employment-Population Ratio,53.3,Black
+2014,2014-02-01,Employment-Population Ratio,53.7,Black
+2014,2014-04-01,Employment-Population Ratio,53.9,Black
+2014,2014-05-01,Employment-Population Ratio,53.9,Black
+2014,2014-03-01,Employment-Population Ratio,53.9,Black
+2014,2014-08-01,Employment-Population Ratio,54.1,Black
+2014,2014-06-01,Employment-Population Ratio,54.4,Black
+2014,2014-07-01,Employment-Population Ratio,54.5,Black
+2014,2014-11-01,Employment-Population Ratio,54.7,Black
+2014,2014-10-01,Employment-Population Ratio,54.8,Black
+2014,2014-09-01,Employment-Population Ratio,54.8,Black
+2014,2014-12-01,Employment-Population Ratio,54.9,Black
+2014,2014-03-01,Employment-Population Ratio,59.6,White
+2014,2014-01-01,Employment-Population Ratio,59.6,White
+2014,2014-02-01,Employment-Population Ratio,59.6,White
+2014,2014-05-01,Employment-Population Ratio,59.7,White
+2014,2014-07-01,Employment-Population Ratio,59.7,White
+2014,2014-06-01,Employment-Population Ratio,59.7,White
+2014,2014-04-01,Employment-Population Ratio,59.7,White
+2014,2014-09-01,Employment-Population Ratio,59.8,White
+2014,2014-08-01,Employment-Population Ratio,59.8,White
+2014,2014-11-01,Employment-Population Ratio,59.9,White
+2014,2014-12-01,Employment-Population Ratio,59.9,White
+2014,2014-10-01,Employment-Population Ratio,60.0,White
+2014,2014-01-01,Employment-Population Ratio,60.4,Hispanic
+2014,2014-02-01,Employment-Population Ratio,60.6,Hispanic
+2014,2014-01-01,Labor Force Participation Rate,60.6,Black
+2014,2014-05-01,Employment-Population Ratio,60.7,Hispanic
+2014,2014-05-01,Labor Force Participation Rate,60.8,Black
+2014,2014-04-01,Employment-Population Ratio,60.8,Hispanic
+2014,2014-07-01,Employment-Population Ratio,60.9,Hispanic
+2014,2014-02-01,Labor Force Participation Rate,60.9,Black
+2014,2014-03-01,Employment-Population Ratio,60.9,Hispanic
+2014,2014-08-01,Labor Force Participation Rate,61.0,Black
+2014,2014-04-01,Labor Force Participation Rate,61.0,Black
+2014,2014-06-01,Labor Force Participation Rate,61.1,Black
+2014,2014-08-01,Employment-Population Ratio,61.2,Hispanic
+2014,2014-06-01,Employment-Population Ratio,61.2,Hispanic
+2014,2014-03-01,Labor Force Participation Rate,61.3,Black
+2014,2014-11-01,Labor Force Participation Rate,61.3,Black
+2014,2014-10-01,Labor Force Participation Rate,61.3,Black
+2014,2014-12-01,Labor Force Participation Rate,61.4,Black
+2014,2014-09-01,Labor Force Participation Rate,61.6,Black
+2014,2014-09-01,Employment-Population Ratio,61.6,Hispanic
+2014,2014-07-01,Labor Force Participation Rate,61.7,Black
+2014,2014-12-01,Employment-Population Ratio,61.9,Hispanic
+2014,2014-10-01,Employment-Population Ratio,62.0,Hispanic
+2014,2014-11-01,Employment-Population Ratio,62.0,Hispanic
+2014,2014-12-01,Labor Force Participation Rate,62.9,White
+2014,2014-09-01,Labor Force Participation Rate,63.0,White
+2014,2014-07-01,Labor Force Participation Rate,63.0,White
+2014,2014-10-01,Labor Force Participation Rate,63.0,White
+2014,2014-04-01,Labor Force Participation Rate,63.0,White
+2014,2014-08-01,Labor Force Participation Rate,63.1,White
+2014,2014-11-01,Labor Force Participation Rate,63.1,White
+2014,2014-06-01,Labor Force Participation Rate,63.1,White
+2014,2014-05-01,Labor Force Participation Rate,63.1,White
+2014,2014-02-01,Labor Force Participation Rate,63.2,White
+2014,2014-01-01,Labor Force Participation Rate,63.2,White
+2014,2014-03-01,Labor Force Participation Rate,63.3,White
+2014,2014-04-01,Labor Force Participation Rate,65.6,Hispanic
+2014,2014-05-01,Labor Force Participation Rate,65.8,Hispanic
+2014,2014-01-01,Labor Force Participation Rate,65.9,Hispanic
+2014,2014-02-01,Labor Force Participation Rate,66.0,Hispanic
+2014,2014-07-01,Labor Force Participation Rate,66.0,Hispanic
+2014,2014-12-01,Labor Force Participation Rate,66.1,Hispanic
+2014,2014-03-01,Labor Force Participation Rate,66.1,Hispanic
+2014,2014-08-01,Labor Force Participation Rate,66.1,Hispanic
+2014,2014-09-01,Labor Force Participation Rate,66.1,Hispanic
+2014,2014-06-01,Labor Force Participation Rate,66.3,Hispanic
+2014,2014-11-01,Labor Force Participation Rate,66.4,Hispanic
+2014,2014-10-01,Labor Force Participation Rate,66.5,Hispanic
+2015,2015-03-01,Unemployment Rate,3.2,Asian
+2015,2015-08-01,Unemployment Rate,3.4,Asian
+2015,2015-10-01,Unemployment Rate,3.5,Asian
+2015,2015-09-01,Unemployment Rate,3.5,Asian
+2015,2015-11-01,Unemployment Rate,3.9,Asian
+2015,2015-07-01,Unemployment Rate,3.9,Asian
+2015,2015-06-01,Unemployment Rate,3.9,Asian
+2015,2015-02-01,Unemployment Rate,4.0,Asian
+2015,2015-01-01,Unemployment Rate,4.0,Asian
+2015,2015-05-01,Unemployment Rate,4.1,Asian
+2015,2015-12-01,Unemployment Rate,4.1,Asian
+2015,2015-11-01,Unemployment Rate,4.4,White
+2015,2015-04-01,Unemployment Rate,4.4,Asian
+2015,2015-12-01,Unemployment Rate,4.4,White
+2015,2015-10-01,Unemployment Rate,4.4,White
+2015,2015-09-01,Unemployment Rate,4.4,White
+2015,2015-08-01,Unemployment Rate,4.4,White
+2015,2015-07-01,Unemployment Rate,4.5,White
+2015,2015-06-01,Unemployment Rate,4.6,White
+2015,2015-02-01,Unemployment Rate,4.7,White
+2015,2015-04-01,Unemployment Rate,4.7,White
+2015,2015-05-01,Unemployment Rate,4.8,White
+2015,2015-03-01,Unemployment Rate,4.8,White
+2015,2015-01-01,Unemployment Rate,4.9,White
+2015,2015-09-01,Unemployment Rate,6.2,Hispanic
+2015,2015-12-01,Unemployment Rate,6.2,Hispanic
+2015,2015-10-01,Unemployment Rate,6.3,Hispanic
+2015,2015-11-01,Unemployment Rate,6.4,Hispanic
+2015,2015-08-01,Unemployment Rate,6.6,Hispanic
+2015,2015-01-01,Unemployment Rate,6.7,Hispanic
+2015,2015-06-01,Unemployment Rate,6.7,Hispanic
+2015,2015-03-01,Unemployment Rate,6.8,Hispanic
+2015,2015-04-01,Unemployment Rate,6.8,Hispanic
+2015,2015-02-01,Unemployment Rate,6.8,Hispanic
+2015,2015-05-01,Unemployment Rate,6.8,Hispanic
+2015,2015-07-01,Unemployment Rate,6.9,Hispanic
+2015,2015-12-01,Unemployment Rate,8.5,Black
+2015,2015-10-01,Unemployment Rate,9.0,Black
+2015,2015-07-01,Unemployment Rate,9.1,Black
+2015,2015-09-01,Unemployment Rate,9.3,Black
+2015,2015-08-01,Unemployment Rate,9.4,Black
+2015,2015-11-01,Unemployment Rate,9.4,Black
+2015,2015-04-01,Unemployment Rate,9.7,Black
+2015,2015-06-01,Unemployment Rate,9.7,Black
+2015,2015-03-01,Unemployment Rate,9.9,Black
+2015,2015-02-01,Unemployment Rate,10.1,Black
+2015,2015-01-01,Unemployment Rate,10.3,Black
+2015,2015-05-01,Unemployment Rate,10.3,Black
+2015,2015-01-01,Employment-Population Ratio,54.6,Black
+2015,2015-02-01,Employment-Population Ratio,54.8,Black
+2015,2015-03-01,Employment-Population Ratio,55.0,Black
+2015,2015-09-01,Employment-Population Ratio,55.7,Black
+2015,2015-11-01,Employment-Population Ratio,55.8,Black
+2015,2015-05-01,Employment-Population Ratio,55.8,Black
+2015,2015-06-01,Employment-Population Ratio,55.9,Black
+2015,2015-10-01,Employment-Population Ratio,55.9,Black
+2015,2015-08-01,Employment-Population Ratio,55.9,Black
+2015,2015-07-01,Employment-Population Ratio,55.9,Black
+2015,2015-04-01,Employment-Population Ratio,56.2,Black
+2015,2015-12-01,Employment-Population Ratio,56.4,Black
+2015,2015-09-01,Employment-Population Ratio,59.8,White
+2015,2015-04-01,Employment-Population Ratio,59.8,White
+2015,2015-03-01,Employment-Population Ratio,59.8,White
+2015,2015-08-01,Employment-Population Ratio,59.9,White
+2015,2015-06-01,Employment-Population Ratio,59.9,White
+2015,2015-11-01,Employment-Population Ratio,59.9,White
+2015,2015-02-01,Employment-Population Ratio,59.9,White
+2015,2015-07-01,Employment-Population Ratio,59.9,White
+2015,2015-10-01,Employment-Population Ratio,59.9,White
+2015,2015-12-01,Employment-Population Ratio,60.0,White
+2015,2015-05-01,Employment-Population Ratio,60.0,White
+2015,2015-01-01,Employment-Population Ratio,60.1,White
+2015,2015-01-01,Labor Force Participation Rate,60.9,Black
+2015,2015-02-01,Labor Force Participation Rate,61.0,Black
+2015,2015-03-01,Labor Force Participation Rate,61.1,Black
+2015,2015-09-01,Employment-Population Ratio,61.3,Hispanic
+2015,2015-08-01,Employment-Population Ratio,61.3,Hispanic
+2015,2015-11-01,Employment-Population Ratio,61.3,Hispanic
+2015,2015-07-01,Employment-Population Ratio,61.4,Hispanic
+2015,2015-12-01,Employment-Population Ratio,61.4,Hispanic
+2015,2015-09-01,Labor Force Participation Rate,61.4,Black
+2015,2015-10-01,Employment-Population Ratio,61.5,Hispanic
+2015,2015-10-01,Labor Force Participation Rate,61.5,Black
+2015,2015-07-01,Labor Force Participation Rate,61.5,Black
+2015,2015-11-01,Labor Force Participation Rate,61.6,Black
+2015,2015-02-01,Employment-Population Ratio,61.7,Hispanic
+2015,2015-12-01,Labor Force Participation Rate,61.7,Black
+2015,2015-08-01,Labor Force Participation Rate,61.7,Black
+2015,2015-03-01,Employment-Population Ratio,61.7,Hispanic
+2015,2015-06-01,Employment-Population Ratio,61.7,Hispanic
+2015,2015-05-01,Employment-Population Ratio,61.8,Hispanic
+2015,2015-06-01,Labor Force Participation Rate,61.8,Black
+2015,2015-04-01,Employment-Population Ratio,61.8,Hispanic
+2015,2015-01-01,Employment-Population Ratio,62.1,Hispanic
+2015,2015-05-01,Labor Force Participation Rate,62.1,Black
+2015,2015-04-01,Labor Force Participation Rate,62.2,Black
+2015,2015-09-01,Labor Force Participation Rate,62.5,White
+2015,2015-10-01,Labor Force Participation Rate,62.6,White
+2015,2015-07-01,Labor Force Participation Rate,62.7,White
+2015,2015-11-01,Labor Force Participation Rate,62.7,White
+2015,2015-08-01,Labor Force Participation Rate,62.7,White
+2015,2015-06-01,Labor Force Participation Rate,62.8,White
+2015,2015-03-01,Labor Force Participation Rate,62.8,White
+2015,2015-04-01,Labor Force Participation Rate,62.8,White
+2015,2015-12-01,Labor Force Participation Rate,62.8,White
+2015,2015-02-01,Labor Force Participation Rate,62.9,White
+2015,2015-05-01,Labor Force Participation Rate,63.0,White
+2015,2015-01-01,Labor Force Participation Rate,63.1,White
+2015,2015-09-01,Labor Force Participation Rate,65.3,Hispanic
+2015,2015-11-01,Labor Force Participation Rate,65.5,Hispanic
+2015,2015-12-01,Labor Force Participation Rate,65.5,Hispanic
+2015,2015-10-01,Labor Force Participation Rate,65.6,Hispanic
+2015,2015-08-01,Labor Force Participation Rate,65.7,Hispanic
+2015,2015-07-01,Labor Force Participation Rate,66.0,Hispanic
+2015,2015-02-01,Labor Force Participation Rate,66.1,Hispanic
+2015,2015-03-01,Labor Force Participation Rate,66.2,Hispanic
+2015,2015-06-01,Labor Force Participation Rate,66.2,Hispanic
+2015,2015-05-01,Labor Force Participation Rate,66.3,Hispanic
+2015,2015-04-01,Labor Force Participation Rate,66.4,Hispanic
+2015,2015-01-01,Labor Force Participation Rate,66.6,Hispanic
+2016,2016-12-01,Unemployment Rate,2.7,Asian
+2016,2016-11-01,Unemployment Rate,3.1,Asian
+2016,2016-10-01,Unemployment Rate,3.4,Asian
+2016,2016-01-01,Unemployment Rate,3.6,Asian
+2016,2016-06-01,Unemployment Rate,3.6,Asian
+2016,2016-02-01,Unemployment Rate,3.8,Asian
+2016,2016-07-01,Unemployment Rate,3.8,Asian
+2016,2016-04-01,Unemployment Rate,3.8,Asian
+2016,2016-09-01,Unemployment Rate,3.8,Asian
+2016,2016-03-01,Unemployment Rate,3.9,Asian
+2016,2016-08-01,Unemployment Rate,4.1,Asian
+2016,2016-05-01,Unemployment Rate,4.1,Asian
+2016,2016-11-01,Unemployment Rate,4.2,White
+2016,2016-12-01,Unemployment Rate,4.2,White
+2016,2016-01-01,Unemployment Rate,4.2,White
+2016,2016-05-01,Unemployment Rate,4.2,White
+2016,2016-02-01,Unemployment Rate,4.2,White
+2016,2016-07-01,Unemployment Rate,4.2,White
+2016,2016-06-01,Unemployment Rate,4.3,White
+2016,2016-03-01,Unemployment Rate,4.3,White
+2016,2016-09-01,Unemployment Rate,4.4,White
+2016,2016-10-01,Unemployment Rate,4.4,White
+2016,2016-04-01,Unemployment Rate,4.4,White
+2016,2016-08-01,Unemployment Rate,4.4,White
+2016,2016-07-01,Unemployment Rate,5.4,Hispanic
+2016,2016-02-01,Unemployment Rate,5.5,Hispanic
+2016,2016-11-01,Unemployment Rate,5.6,Hispanic
+2016,2016-08-01,Unemployment Rate,5.6,Hispanic
+2016,2016-03-01,Unemployment Rate,5.6,Hispanic
+2016,2016-05-01,Unemployment Rate,5.7,Hispanic
+2016,2016-10-01,Unemployment Rate,5.7,Hispanic
+2016,2016-12-01,Unemployment Rate,5.8,Hispanic
+2016,2016-01-01,Unemployment Rate,5.9,Hispanic
+2016,2016-06-01,Unemployment Rate,6.0,Hispanic
+2016,2016-09-01,Unemployment Rate,6.2,Hispanic
+2016,2016-04-01,Unemployment Rate,6.2,Hispanic
+2016,2016-08-01,Unemployment Rate,8.0,Black
+2016,2016-12-01,Unemployment Rate,8.0,Black
+2016,2016-07-01,Unemployment Rate,8.2,Black
+2016,2016-05-01,Unemployment Rate,8.2,Black
+2016,2016-11-01,Unemployment Rate,8.2,Black
+2016,2016-09-01,Unemployment Rate,8.5,Black
+2016,2016-10-01,Unemployment Rate,8.5,Black
+2016,2016-01-01,Unemployment Rate,8.5,Black
+2016,2016-02-01,Unemployment Rate,8.6,Black
+2016,2016-06-01,Unemployment Rate,8.7,Black
+2016,2016-04-01,Unemployment Rate,8.8,Black
+2016,2016-03-01,Unemployment Rate,8.9,Black
+2016,2016-04-01,Employment-Population Ratio,55.8,Black
+2016,2016-03-01,Employment-Population Ratio,56.0,Black
+2016,2016-05-01,Employment-Population Ratio,56.1,Black
+2016,2016-06-01,Employment-Population Ratio,56.1,Black
+2016,2016-01-01,Employment-Population Ratio,56.1,Black
+2016,2016-07-01,Employment-Population Ratio,56.1,Black
+2016,2016-02-01,Employment-Population Ratio,56.2,Black
+2016,2016-10-01,Employment-Population Ratio,56.5,Black
+2016,2016-09-01,Employment-Population Ratio,56.7,Black
+2016,2016-08-01,Employment-Population Ratio,56.9,Black
+2016,2016-11-01,Employment-Population Ratio,57.0,Black
+2016,2016-12-01,Employment-Population Ratio,57.1,Black
+2016,2016-12-01,Employment-Population Ratio,60.0,White
+2016,2016-10-01,Employment-Population Ratio,60.0,White
+2016,2016-11-01,Employment-Population Ratio,60.1,White
+2016,2016-09-01,Employment-Population Ratio,60.1,White
+2016,2016-06-01,Employment-Population Ratio,60.2,White
+2016,2016-08-01,Employment-Population Ratio,60.2,White
+2016,2016-04-01,Employment-Population Ratio,60.3,White
+2016,2016-01-01,Employment-Population Ratio,60.3,White
+2016,2016-07-01,Employment-Population Ratio,60.3,White
+2016,2016-05-01,Employment-Population Ratio,60.3,White
+2016,2016-02-01,Employment-Population Ratio,60.3,White
+2016,2016-03-01,Employment-Population Ratio,60.4,White
+2016,2016-05-01,Labor Force Participation Rate,61.1,Black
+2016,2016-07-01,Labor Force Participation Rate,61.2,Black
+2016,2016-04-01,Labor Force Participation Rate,61.2,Black
+2016,2016-01-01,Labor Force Participation Rate,61.4,Black
+2016,2016-06-01,Labor Force Participation Rate,61.4,Black
+2016,2016-03-01,Labor Force Participation Rate,61.5,Black
+2016,2016-02-01,Labor Force Participation Rate,61.5,Black
+2016,2016-04-01,Employment-Population Ratio,61.7,Hispanic
+2016,2016-12-01,Employment-Population Ratio,61.8,Hispanic
+2016,2016-10-01,Employment-Population Ratio,61.8,Hispanic
+2016,2016-10-01,Labor Force Participation Rate,61.8,Black
+2016,2016-11-01,Employment-Population Ratio,61.8,Hispanic
+2016,2016-08-01,Labor Force Participation Rate,61.8,Black
+2016,2016-06-01,Employment-Population Ratio,61.9,Hispanic
+2016,2016-01-01,Employment-Population Ratio,61.9,Hispanic
+2016,2016-09-01,Employment-Population Ratio,61.9,Hispanic
+2016,2016-05-01,Employment-Population Ratio,61.9,Hispanic
+2016,2016-12-01,Labor Force Participation Rate,62.0,Black
+2016,2016-09-01,Labor Force Participation Rate,62.0,Black
+2016,2016-11-01,Labor Force Participation Rate,62.1,Black
+2016,2016-07-01,Employment-Population Ratio,62.3,Hispanic
+2016,2016-02-01,Employment-Population Ratio,62.4,Hispanic
+2016,2016-08-01,Employment-Population Ratio,62.5,Hispanic
+2016,2016-03-01,Employment-Population Ratio,62.6,Hispanic
+2016,2016-12-01,Labor Force Participation Rate,62.6,White
+2016,2016-11-01,Labor Force Participation Rate,62.7,White
+2016,2016-10-01,Labor Force Participation Rate,62.8,White
+2016,2016-09-01,Labor Force Participation Rate,62.9,White
+2016,2016-01-01,Labor Force Participation Rate,62.9,White
+2016,2016-06-01,Labor Force Participation Rate,62.9,White
+2016,2016-05-01,Labor Force Participation Rate,62.9,White
+2016,2016-07-01,Labor Force Participation Rate,62.9,White
+2016,2016-02-01,Labor Force Participation Rate,63.0,White
+2016,2016-08-01,Labor Force Participation Rate,63.0,White
+2016,2016-03-01,Labor Force Participation Rate,63.1,White
+2016,2016-04-01,Labor Force Participation Rate,63.1,White
+2016,2016-11-01,Labor Force Participation Rate,65.5,Hispanic
+2016,2016-10-01,Labor Force Participation Rate,65.6,Hispanic
+2016,2016-12-01,Labor Force Participation Rate,65.6,Hispanic
+2016,2016-05-01,Labor Force Participation Rate,65.6,Hispanic
+2016,2016-06-01,Labor Force Participation Rate,65.8,Hispanic
+2016,2016-04-01,Labor Force Participation Rate,65.8,Hispanic
+2016,2016-01-01,Labor Force Participation Rate,65.8,Hispanic
+2016,2016-07-01,Labor Force Participation Rate,65.9,Hispanic
+2016,2016-02-01,Labor Force Participation Rate,66.0,Hispanic
+2016,2016-09-01,Labor Force Participation Rate,66.0,Hispanic
+2016,2016-08-01,Labor Force Participation Rate,66.2,Hispanic
+2016,2016-03-01,Labor Force Participation Rate,66.3,Hispanic
+2017,2017-12-01,Unemployment Rate,2.6,Asian
+2017,2017-10-01,Unemployment Rate,3.0,Asian
+2017,2017-11-01,Unemployment Rate,3.1,Asian
+2017,2017-03-01,Unemployment Rate,3.2,Asian
+2017,2017-04-01,Unemployment Rate,3.3,Asian
+2017,2017-02-01,Unemployment Rate,3.5,Asian
+2017,2017-01-01,Unemployment Rate,3.6,Asian
+2017,2017-10-01,Unemployment Rate,3.6,White
+2017,2017-09-01,Unemployment Rate,3.6,Asian
+2017,2017-05-01,Unemployment Rate,3.6,Asian
+2017,2017-12-01,Unemployment Rate,3.7,White
+2017,2017-06-01,Unemployment Rate,3.7,Asian
+2017,2017-09-01,Unemployment Rate,3.7,White
+2017,2017-07-01,Unemployment Rate,3.7,Asian
+2017,2017-05-01,Unemployment Rate,3.7,White
+2017,2017-11-01,Unemployment Rate,3.7,White
+2017,2017-06-01,Unemployment Rate,3.8,White
+2017,2017-03-01,Unemployment Rate,3.8,White
+2017,2017-07-01,Unemployment Rate,3.8,White
+2017,2017-04-01,Unemployment Rate,3.9,White
+2017,2017-08-01,Unemployment Rate,3.9,White
+2017,2017-08-01,Unemployment Rate,3.9,Asian
+2017,2017-02-01,Unemployment Rate,4.0,White
+2017,2017-01-01,Unemployment Rate,4.2,White
+2017,2017-11-01,Unemployment Rate,4.9,Hispanic
+2017,2017-12-01,Unemployment Rate,5.0,Hispanic
+2017,2017-10-01,Unemployment Rate,5.0,Hispanic
+2017,2017-03-01,Unemployment Rate,5.0,Hispanic
+2017,2017-06-01,Unemployment Rate,5.0,Hispanic
+2017,2017-07-01,Unemployment Rate,5.1,Hispanic
+2017,2017-08-01,Unemployment Rate,5.1,Hispanic
+2017,2017-09-01,Unemployment Rate,5.1,Hispanic
+2017,2017-04-01,Unemployment Rate,5.2,Hispanic
+2017,2017-05-01,Unemployment Rate,5.2,Hispanic
+2017,2017-02-01,Unemployment Rate,5.6,Hispanic
+2017,2017-01-01,Unemployment Rate,5.8,Hispanic
+2017,2017-12-01,Unemployment Rate,6.7,Black
+2017,2017-06-01,Unemployment Rate,6.9,Black
+2017,2017-09-01,Unemployment Rate,7.2,Black
+2017,2017-07-01,Unemployment Rate,7.3,Black
+2017,2017-01-01,Unemployment Rate,7.5,Black
+2017,2017-11-01,Unemployment Rate,7.5,Black
+2017,2017-10-01,Unemployment Rate,7.6,Black
+2017,2017-08-01,Unemployment Rate,7.7,Black
+2017,2017-04-01,Unemployment Rate,7.7,Black
+2017,2017-05-01,Unemployment Rate,7.7,Black
+2017,2017-03-01,Unemployment Rate,7.8,Black
+2017,2017-02-01,Unemployment Rate,8.0,Black
+2017,2017-08-01,Employment-Population Ratio,57.3,Black
+2017,2017-03-01,Employment-Population Ratio,57.3,Black
+2017,2017-02-01,Employment-Population Ratio,57.3,Black
+2017,2017-10-01,Employment-Population Ratio,57.4,Black
+2017,2017-01-01,Employment-Population Ratio,57.6,Black
+2017,2017-06-01,Employment-Population Ratio,57.7,Black
+2017,2017-11-01,Employment-Population Ratio,57.7,Black
+2017,2017-07-01,Employment-Population Ratio,57.7,Black
+2017,2017-04-01,Employment-Population Ratio,57.7,Black
+2017,2017-05-01,Employment-Population Ratio,57.8,Black
+2017,2017-12-01,Employment-Population Ratio,58.0,Black
+2017,2017-09-01,Employment-Population Ratio,58.2,Black
+2017,2017-01-01,Employment-Population Ratio,60.1,White
+2017,2017-02-01,Employment-Population Ratio,60.3,White
+2017,2017-10-01,Employment-Population Ratio,60.3,White
+2017,2017-11-01,Employment-Population Ratio,60.4,White
+2017,2017-06-01,Employment-Population Ratio,60.4,White
+2017,2017-12-01,Employment-Population Ratio,60.4,White
+2017,2017-05-01,Employment-Population Ratio,60.4,White
+2017,2017-08-01,Employment-Population Ratio,60.4,White
+2017,2017-04-01,Employment-Population Ratio,60.5,White
+2017,2017-07-01,Employment-Population Ratio,60.5,White
+2017,2017-03-01,Employment-Population Ratio,60.5,White
+2017,2017-09-01,Employment-Population Ratio,60.6,White
+2017,2017-06-01,Labor Force Participation Rate,62.0,Black
+2017,2017-08-01,Labor Force Participation Rate,62.0,Black
+2017,2017-07-01,Labor Force Participation Rate,62.2,Black
+2017,2017-10-01,Labor Force Participation Rate,62.2,Black
+2017,2017-12-01,Labor Force Participation Rate,62.2,Black
+2017,2017-03-01,Labor Force Participation Rate,62.2,Black
+2017,2017-10-01,Employment-Population Ratio,62.2,Hispanic
+2017,2017-01-01,Employment-Population Ratio,62.2,Hispanic
+2017,2017-02-01,Labor Force Participation Rate,62.3,Black
+2017,2017-01-01,Labor Force Participation Rate,62.3,Black
+2017,2017-11-01,Employment-Population Ratio,62.3,Hispanic
+2017,2017-12-01,Employment-Population Ratio,62.4,Hispanic
+2017,2017-11-01,Labor Force Participation Rate,62.4,Black
+2017,2017-08-01,Employment-Population Ratio,62.5,Hispanic
+2017,2017-04-01,Labor Force Participation Rate,62.5,Black
+2017,2017-05-01,Labor Force Participation Rate,62.6,Black
+2017,2017-10-01,Labor Force Participation Rate,62.6,White
+2017,2017-09-01,Labor Force Participation Rate,62.7,Black
+2017,2017-12-01,Labor Force Participation Rate,62.7,White
+2017,2017-02-01,Employment-Population Ratio,62.7,Hispanic
+2017,2017-11-01,Labor Force Participation Rate,62.7,White
+2017,2017-06-01,Labor Force Participation Rate,62.8,White
+2017,2017-05-01,Employment-Population Ratio,62.8,Hispanic
+2017,2017-02-01,Labor Force Participation Rate,62.8,White
+2017,2017-01-01,Labor Force Participation Rate,62.8,White
+2017,2017-04-01,Employment-Population Ratio,62.8,Hispanic
+2017,2017-05-01,Labor Force Participation Rate,62.8,White
+2017,2017-03-01,Labor Force Participation Rate,62.9,White
+2017,2017-08-01,Labor Force Participation Rate,62.9,White
+2017,2017-06-01,Employment-Population Ratio,62.9,Hispanic
+2017,2017-07-01,Labor Force Participation Rate,62.9,White
+2017,2017-04-01,Labor Force Participation Rate,62.9,White
+2017,2017-09-01,Labor Force Participation Rate,63.0,White
+2017,2017-09-01,Employment-Population Ratio,63.1,Hispanic
+2017,2017-07-01,Employment-Population Ratio,63.1,Hispanic
+2017,2017-03-01,Employment-Population Ratio,63.3,Hispanic
+2017,2017-10-01,Labor Force Participation Rate,65.5,Hispanic
+2017,2017-11-01,Labor Force Participation Rate,65.5,Hispanic
+2017,2017-12-01,Labor Force Participation Rate,65.7,Hispanic
+2017,2017-08-01,Labor Force Participation Rate,65.9,Hispanic
+2017,2017-01-01,Labor Force Participation Rate,66.1,Hispanic
+2017,2017-06-01,Labor Force Participation Rate,66.2,Hispanic
+2017,2017-05-01,Labor Force Participation Rate,66.2,Hispanic
+2017,2017-04-01,Labor Force Participation Rate,66.2,Hispanic
+2017,2017-09-01,Labor Force Participation Rate,66.4,Hispanic
+2017,2017-02-01,Labor Force Participation Rate,66.4,Hispanic
+2017,2017-07-01,Labor Force Participation Rate,66.5,Hispanic
+2017,2017-03-01,Labor Force Participation Rate,66.7,Hispanic
+2018,2018-05-01,Unemployment Rate,2.2,Asian
+2018,2018-11-01,Unemployment Rate,2.8,Asian
+2018,2018-04-01,Unemployment Rate,2.9,Asian
+2018,2018-08-01,Unemployment Rate,2.9,Asian
+2018,2018-01-01,Unemployment Rate,2.9,Asian
+2018,2018-02-01,Unemployment Rate,3.0,Asian
+2018,2018-07-01,Unemployment Rate,3.0,Asian
+2018,2018-10-01,Unemployment Rate,3.1,Asian
+2018,2018-03-01,Unemployment Rate,3.1,Asian
+2018,2018-06-01,Unemployment Rate,3.2,Asian
+2018,2018-09-01,Unemployment Rate,3.3,White
+2018,2018-12-01,Unemployment Rate,3.3,Asian
+2018,2018-08-01,Unemployment Rate,3.4,White
+2018,2018-10-01,Unemployment Rate,3.4,White
+2018,2018-07-01,Unemployment Rate,3.4,White
+2018,2018-11-01,Unemployment Rate,3.4,White
+2018,2018-05-01,Unemployment Rate,3.5,White
+2018,2018-09-01,Unemployment Rate,3.5,Asian
+2018,2018-03-01,Unemployment Rate,3.5,White
+2018,2018-01-01,Unemployment Rate,3.5,White
+2018,2018-12-01,Unemployment Rate,3.5,White
+2018,2018-06-01,Unemployment Rate,3.5,White
+2018,2018-02-01,Unemployment Rate,3.6,White
+2018,2018-04-01,Unemployment Rate,3.6,White
+2018,2018-12-01,Unemployment Rate,4.4,Hispanic
+2018,2018-10-01,Unemployment Rate,4.4,Hispanic
+2018,2018-07-01,Unemployment Rate,4.5,Hispanic
+2018,2018-06-01,Unemployment Rate,4.5,Hispanic
+2018,2018-09-01,Unemployment Rate,4.6,Hispanic
+2018,2018-08-01,Unemployment Rate,4.7,Hispanic
+2018,2018-11-01,Unemployment Rate,4.7,Hispanic
+2018,2018-04-01,Unemployment Rate,4.8,Hispanic
+2018,2018-05-01,Unemployment Rate,4.8,Hispanic
+2018,2018-01-01,Unemployment Rate,4.9,Hispanic
+2018,2018-02-01,Unemployment Rate,4.9,Hispanic
+2018,2018-03-01,Unemployment Rate,4.9,Hispanic
+2018,2018-05-01,Unemployment Rate,5.9,Black
+2018,2018-09-01,Unemployment Rate,6.1,Black
+2018,2018-11-01,Unemployment Rate,6.1,Black
+2018,2018-08-01,Unemployment Rate,6.3,Black
+2018,2018-04-01,Unemployment Rate,6.4,Black
+2018,2018-06-01,Unemployment Rate,6.4,Black
+2018,2018-10-01,Unemployment Rate,6.5,Black
+2018,2018-07-01,Unemployment Rate,6.5,Black
+2018,2018-12-01,Unemployment Rate,6.6,Black
+2018,2018-03-01,Unemployment Rate,6.7,Black
+2018,2018-02-01,Unemployment Rate,6.8,Black
+2018,2018-01-01,Unemployment Rate,7.5,Black
+2018,2018-01-01,Employment-Population Ratio,57.4,Black
+2018,2018-04-01,Employment-Population Ratio,57.9,Black
+2018,2018-12-01,Employment-Population Ratio,58.0,Black
+2018,2018-08-01,Employment-Population Ratio,58.2,Black
+2018,2018-06-01,Employment-Population Ratio,58.3,Black
+2018,2018-07-01,Employment-Population Ratio,58.4,Black
+2018,2018-11-01,Employment-Population Ratio,58.4,Black
+2018,2018-03-01,Employment-Population Ratio,58.4,Black
+2018,2018-05-01,Employment-Population Ratio,58.5,Black
+2018,2018-10-01,Employment-Population Ratio,58.6,Black
+2018,2018-02-01,Employment-Population Ratio,58.6,Black
+2018,2018-09-01,Employment-Population Ratio,58.7,Black
+2018,2018-08-01,Employment-Population Ratio,60.4,White
+2018,2018-09-01,Employment-Population Ratio,60.5,White
+2018,2018-01-01,Employment-Population Ratio,60.5,White
+2018,2018-03-01,Employment-Population Ratio,60.6,White
+2018,2018-02-01,Employment-Population Ratio,60.7,White
+2018,2018-06-01,Employment-Population Ratio,60.7,White
+2018,2018-04-01,Employment-Population Ratio,60.7,White
+2018,2018-10-01,Employment-Population Ratio,60.7,White
+2018,2018-12-01,Employment-Population Ratio,60.8,White
+2018,2018-07-01,Employment-Population Ratio,60.8,White
+2018,2018-05-01,Employment-Population Ratio,60.8,White
+2018,2018-11-01,Employment-Population Ratio,60.8,White
+2018,2018-04-01,Labor Force Participation Rate,61.8,Black
+2018,2018-08-01,Labor Force Participation Rate,62.0,Black
+2018,2018-01-01,Labor Force Participation Rate,62.1,Black
+2018,2018-05-01,Labor Force Participation Rate,62.1,Black
+2018,2018-12-01,Labor Force Participation Rate,62.1,Black
+2018,2018-11-01,Labor Force Participation Rate,62.2,Black
+2018,2018-06-01,Labor Force Participation Rate,62.3,Black
+2018,2018-09-01,Labor Force Participation Rate,62.5,Black
+2018,2018-01-01,Employment-Population Ratio,62.5,Hispanic
+2018,2018-07-01,Labor Force Participation Rate,62.5,Black
+2018,2018-03-01,Employment-Population Ratio,62.5,Hispanic
+2018,2018-03-01,Labor Force Participation Rate,62.6,Black
+2018,2018-08-01,Labor Force Participation Rate,62.6,White
+2018,2018-10-01,Labor Force Participation Rate,62.6,Black
+2018,2018-09-01,Labor Force Participation Rate,62.6,White
+2018,2018-01-01,Labor Force Participation Rate,62.7,White
+2018,2018-10-01,Labor Force Participation Rate,62.8,White
+2018,2018-03-01,Labor Force Participation Rate,62.8,White
+2018,2018-08-01,Employment-Population Ratio,62.8,Hispanic
+2018,2018-02-01,Employment-Population Ratio,62.9,Hispanic
+2018,2018-07-01,Labor Force Participation Rate,62.9,White
+2018,2018-05-01,Labor Force Participation Rate,62.9,White
+2018,2018-02-01,Labor Force Participation Rate,62.9,Black
+2018,2018-11-01,Labor Force Participation Rate,62.9,White
+2018,2018-04-01,Labor Force Participation Rate,62.9,White
+2018,2018-06-01,Labor Force Participation Rate,62.9,White
+2018,2018-02-01,Labor Force Participation Rate,63.0,White
+2018,2018-09-01,Employment-Population Ratio,63.0,Hispanic
+2018,2018-12-01,Labor Force Participation Rate,63.0,White
+2018,2018-05-01,Employment-Population Ratio,63.2,Hispanic
+2018,2018-10-01,Employment-Population Ratio,63.2,Hispanic
+2018,2018-04-01,Employment-Population Ratio,63.3,Hispanic
+2018,2018-06-01,Employment-Population Ratio,63.5,Hispanic
+2018,2018-11-01,Employment-Population Ratio,63.6,Hispanic
+2018,2018-07-01,Employment-Population Ratio,63.9,Hispanic
+2018,2018-12-01,Employment-Population Ratio,64.0,Hispanic
+2018,2018-03-01,Labor Force Participation Rate,65.8,Hispanic
+2018,2018-01-01,Labor Force Participation Rate,65.8,Hispanic
+2018,2018-08-01,Labor Force Participation Rate,65.9,Hispanic
+2018,2018-09-01,Labor Force Participation Rate,66.0,Hispanic
+2018,2018-02-01,Labor Force Participation Rate,66.1,Hispanic
+2018,2018-10-01,Labor Force Participation Rate,66.1,Hispanic
+2018,2018-05-01,Labor Force Participation Rate,66.4,Hispanic
+2018,2018-04-01,Labor Force Participation Rate,66.5,Hispanic
+2018,2018-06-01,Labor Force Participation Rate,66.6,Hispanic
+2018,2018-11-01,Labor Force Participation Rate,66.7,Hispanic
+2018,2018-07-01,Labor Force Participation Rate,66.9,Hispanic
+2018,2018-12-01,Labor Force Participation Rate,67.0,Hispanic
+2019,2019-06-01,Unemployment Rate,2.0,Asian
+2019,2019-04-01,Unemployment Rate,2.3,Asian
+2019,2019-09-01,Unemployment Rate,2.5,Asian
+2019,2019-11-01,Unemployment Rate,2.6,Asian
+2019,2019-12-01,Unemployment Rate,2.6,Asian
+2019,2019-05-01,Unemployment Rate,2.6,Asian
+2019,2019-08-01,Unemployment Rate,2.8,Asian
+2019,2019-07-01,Unemployment Rate,2.8,Asian
+2019,2019-10-01,Unemployment Rate,2.9,Asian
+2019,2019-03-01,Unemployment Rate,3.0,Asian
+2019,2019-01-01,Unemployment Rate,3.0,Asian
+2019,2019-02-01,Unemployment Rate,3.2,White
+2019,2019-02-01,Unemployment Rate,3.2,Asian
+2019,2019-04-01,Unemployment Rate,3.2,White
+2019,2019-11-01,Unemployment Rate,3.2,White
+2019,2019-12-01,Unemployment Rate,3.2,White
+2019,2019-09-01,Unemployment Rate,3.2,White
+2019,2019-10-01,Unemployment Rate,3.2,White
+2019,2019-05-01,Unemployment Rate,3.2,White
+2019,2019-06-01,Unemployment Rate,3.3,White
+2019,2019-03-01,Unemployment Rate,3.3,White
+2019,2019-07-01,Unemployment Rate,3.4,White
+2019,2019-08-01,Unemployment Rate,3.4,White
+2019,2019-01-01,Unemployment Rate,3.5,White
+2019,2019-09-01,Unemployment Rate,3.9,Hispanic
+2019,2019-10-01,Unemployment Rate,4.1,Hispanic
+2019,2019-08-01,Unemployment Rate,4.1,Hispanic
+2019,2019-12-01,Unemployment Rate,4.2,Hispanic
+2019,2019-04-01,Unemployment Rate,4.2,Hispanic
+2019,2019-05-01,Unemployment Rate,4.2,Hispanic
+2019,2019-02-01,Unemployment Rate,4.2,Hispanic
+2019,2019-06-01,Unemployment Rate,4.3,Hispanic
+2019,2019-11-01,Unemployment Rate,4.3,Hispanic
+2019,2019-07-01,Unemployment Rate,4.5,Hispanic
+2019,2019-03-01,Unemployment Rate,4.7,Hispanic
+2019,2019-01-01,Unemployment Rate,4.8,Hispanic
+2019,2019-08-01,Unemployment Rate,5.3,Black
+2019,2019-09-01,Unemployment Rate,5.3,Black
+2019,2019-10-01,Unemployment Rate,5.5,Black
+2019,2019-11-01,Unemployment Rate,5.5,Black
+2019,2019-07-01,Unemployment Rate,5.7,Black
+2019,2019-06-01,Unemployment Rate,5.8,Black
+2019,2019-12-01,Unemployment Rate,6.0,Black
+2019,2019-05-01,Unemployment Rate,6.1,Black
+2019,2019-04-01,Unemployment Rate,6.7,Black
+2019,2019-03-01,Unemployment Rate,6.7,Black
+2019,2019-01-01,Unemployment Rate,7.0,Black
+2019,2019-02-01,Unemployment Rate,7.2,Black
+2019,2019-03-01,Employment-Population Ratio,57.7,Black
+2019,2019-02-01,Employment-Population Ratio,58.0,Black
+2019,2019-04-01,Employment-Population Ratio,58.2,Black
+2019,2019-06-01,Employment-Population Ratio,58.3,Black
+2019,2019-01-01,Employment-Population Ratio,58.4,Black
+2019,2019-05-01,Employment-Population Ratio,58.5,Black
+2019,2019-11-01,Employment-Population Ratio,58.9,Black
+2019,2019-08-01,Employment-Population Ratio,59.0,Black
+2019,2019-10-01,Employment-Population Ratio,59.1,Black
+2019,2019-07-01,Employment-Population Ratio,59.1,Black
+2019,2019-09-01,Employment-Population Ratio,59.3,Black
+2019,2019-12-01,Employment-Population Ratio,59.4,Black
+2019,2019-01-01,Employment-Population Ratio,60.7,White
+2019,2019-04-01,Employment-Population Ratio,60.8,White
+2019,2019-05-01,Employment-Population Ratio,60.8,White
+2019,2019-07-01,Employment-Population Ratio,60.9,White
+2019,2019-02-01,Employment-Population Ratio,60.9,White
+2019,2019-08-01,Employment-Population Ratio,60.9,White
+2019,2019-06-01,Employment-Population Ratio,60.9,White
+2019,2019-03-01,Employment-Population Ratio,60.9,White
+2019,2019-10-01,Employment-Population Ratio,61.1,White
+2019,2019-09-01,Employment-Population Ratio,61.1,White
+2019,2019-12-01,Employment-Population Ratio,61.2,White
+2019,2019-11-01,Employment-Population Ratio,61.2,White
+2019,2019-03-01,Labor Force Participation Rate,61.9,Black
+2019,2019-06-01,Labor Force Participation Rate,61.9,Black
+2019,2019-11-01,Labor Force Participation Rate,62.3,Black
+2019,2019-08-01,Labor Force Participation Rate,62.3,Black
+2019,2019-05-01,Labor Force Participation Rate,62.3,Black
+2019,2019-02-01,Labor Force Participation Rate,62.4,Black
+2019,2019-04-01,Labor Force Participation Rate,62.4,Black
+2019,2019-10-01,Labor Force Participation Rate,62.6,Black
+2019,2019-09-01,Labor Force Participation Rate,62.6,Black
+2019,2019-07-01,Labor Force Participation Rate,62.7,Black
+2019,2019-04-01,Labor Force Participation Rate,62.8,White
+2019,2019-05-01,Labor Force Participation Rate,62.9,White
+2019,2019-01-01,Labor Force Participation Rate,62.9,Black
+2019,2019-03-01,Labor Force Participation Rate,63.0,White
+2019,2019-02-01,Labor Force Participation Rate,63.0,White
+2019,2019-06-01,Labor Force Participation Rate,63.0,White
+2019,2019-01-01,Labor Force Participation Rate,63.0,White
+2019,2019-07-01,Labor Force Participation Rate,63.0,White
+2019,2019-09-01,Labor Force Participation Rate,63.1,White
+2019,2019-08-01,Labor Force Participation Rate,63.1,White
+2019,2019-04-01,Employment-Population Ratio,63.2,Hispanic
+2019,2019-11-01,Labor Force Participation Rate,63.2,White
+2019,2019-10-01,Labor Force Participation Rate,63.2,White
+2019,2019-12-01,Labor Force Participation Rate,63.2,Black
+2019,2019-12-01,Labor Force Participation Rate,63.2,White
+2019,2019-05-01,Employment-Population Ratio,63.5,Hispanic
+2019,2019-06-01,Employment-Population Ratio,63.6,Hispanic
+2019,2019-02-01,Employment-Population Ratio,63.6,Hispanic
+2019,2019-07-01,Employment-Population Ratio,63.6,Hispanic
+2019,2019-03-01,Employment-Population Ratio,63.7,Hispanic
+2019,2019-08-01,Employment-Population Ratio,63.9,Hispanic
+2019,2019-01-01,Employment-Population Ratio,64.0,Hispanic
+2019,2019-12-01,Employment-Population Ratio,64.3,Hispanic
+2019,2019-09-01,Employment-Population Ratio,64.5,Hispanic
+2019,2019-10-01,Employment-Population Ratio,64.5,Hispanic
+2019,2019-11-01,Employment-Population Ratio,64.6,Hispanic
+2019,2019-04-01,Labor Force Participation Rate,65.9,Hispanic
+2019,2019-05-01,Labor Force Participation Rate,66.3,Hispanic
+2019,2019-02-01,Labor Force Participation Rate,66.4,Hispanic
+2019,2019-06-01,Labor Force Participation Rate,66.4,Hispanic
+2019,2019-07-01,Labor Force Participation Rate,66.6,Hispanic
+2019,2019-08-01,Labor Force Participation Rate,66.7,Hispanic
+2019,2019-03-01,Labor Force Participation Rate,66.9,Hispanic
+2019,2019-09-01,Labor Force Participation Rate,67.0,Hispanic
+2019,2019-12-01,Labor Force Participation Rate,67.1,Hispanic
+2019,2019-01-01,Labor Force Participation Rate,67.2,Hispanic
+2019,2019-10-01,Labor Force Participation Rate,67.3,Hispanic
+2019,2019-11-01,Labor Force Participation Rate,67.5,Hispanic
+2020,2020-02-01,Unemployment Rate,2.5,Asian
+2020,2020-02-01,Unemployment Rate,3.0,White
+2020,2020-01-01,Unemployment Rate,3.0,Asian
+2020,2020-01-01,Unemployment Rate,3.1,White
+2020,2020-03-01,Unemployment Rate,3.9,White
+2020,2020-03-01,Unemployment Rate,4.2,Asian
+2020,2020-01-01,Unemployment Rate,4.3,Hispanic
+2020,2020-02-01,Unemployment Rate,4.4,Hispanic
+2020,2020-12-01,Unemployment Rate,6.0,Asian
+2020,2020-10-01,Unemployment Rate,6.0,White
+2020,2020-11-01,Unemployment Rate,6.0,White
+2020,2020-03-01,Unemployment Rate,6.1,Hispanic
+2020,2020-12-01,Unemployment Rate,6.1,White
+2020,2020-02-01,Unemployment Rate,6.1,Black
+2020,2020-01-01,Unemployment Rate,6.4,Black
+2020,2020-11-01,Unemployment Rate,6.7,Asian
+2020,2020-03-01,Unemployment Rate,7.0,Black
+2020,2020-09-01,Unemployment Rate,7.0,White
+2020,2020-08-01,Unemployment Rate,7.3,White
+2020,2020-10-01,Unemployment Rate,7.5,Asian
+2020,2020-11-01,Unemployment Rate,8.5,Hispanic
+2020,2020-10-01,Unemployment Rate,8.8,Hispanic
+2020,2020-09-01,Unemployment Rate,8.9,Asian
+2020,2020-07-01,Unemployment Rate,9.2,White
+2020,2020-12-01,Unemployment Rate,9.3,Hispanic
+2020,2020-12-01,Unemployment Rate,10.0,Black
+2020,2020-06-01,Unemployment Rate,10.0,White
+2020,2020-09-01,Unemployment Rate,10.2,Hispanic
+2020,2020-11-01,Unemployment Rate,10.3,Black
+2020,2020-08-01,Unemployment Rate,10.4,Hispanic
+2020,2020-08-01,Unemployment Rate,10.5,Asian
+2020,2020-10-01,Unemployment Rate,10.9,Black
+2020,2020-09-01,Unemployment Rate,12.0,Black
+2020,2020-07-01,Unemployment Rate,12.0,Asian
+2020,2020-05-01,Unemployment Rate,12.3,White
+2020,2020-08-01,Unemployment Rate,12.8,Black
+2020,2020-07-01,Unemployment Rate,12.8,Hispanic
+2020,2020-06-01,Unemployment Rate,13.6,Asian
+2020,2020-04-01,Unemployment Rate,14.2,White
+2020,2020-07-01,Unemployment Rate,14.3,Black
+2020,2020-04-01,Unemployment Rate,14.5,Asian
+2020,2020-06-01,Unemployment Rate,14.5,Hispanic
+2020,2020-05-01,Unemployment Rate,15.0,Asian
+2020,2020-06-01,Unemployment Rate,15.3,Black
+2020,2020-05-01,Unemployment Rate,16.8,Black
+2020,2020-04-01,Unemployment Rate,16.9,Black
+2020,2020-05-01,Unemployment Rate,17.6,Hispanic
+2020,2020-04-01,Unemployment Rate,18.9,Hispanic
+2020,2020-04-01,Employment-Population Ratio,48.6,Black
+2020,2020-05-01,Employment-Population Ratio,49.5,Black
+2020,2020-06-01,Employment-Population Ratio,50.9,Black
+2020,2020-04-01,Employment-Population Ratio,51.1,Hispanic
+2020,2020-07-01,Employment-Population Ratio,51.6,Black
+2020,2020-04-01,Employment-Population Ratio,51.7,White
+2020,2020-08-01,Employment-Population Ratio,52.6,Black
+2020,2020-09-01,Employment-Population Ratio,52.7,Black
+2020,2020-05-01,Employment-Population Ratio,52.9,Hispanic
+2020,2020-05-01,Employment-Population Ratio,53.5,White
+2020,2020-10-01,Employment-Population Ratio,53.8,Black
+2020,2020-12-01,Employment-Population Ratio,54.0,Black
+2020,2020-11-01,Employment-Population Ratio,54.2,Black
+2020,2020-06-01,Employment-Population Ratio,55.5,White
+2020,2020-06-01,Employment-Population Ratio,55.7,Hispanic
+2020,2020-07-01,Employment-Population Ratio,55.8,White
+2020,2020-07-01,Employment-Population Ratio,56.6,Hispanic
+2020,2020-08-01,Employment-Population Ratio,57.2,White
+2020,2020-09-01,Employment-Population Ratio,57.3,White
+2020,2020-03-01,Employment-Population Ratio,57.4,Black
+2020,2020-12-01,Employment-Population Ratio,57.8,White
+2020,2020-11-01,Employment-Population Ratio,57.9,White
+2020,2020-10-01,Employment-Population Ratio,58.1,White
+2020,2020-08-01,Employment-Population Ratio,58.3,Hispanic
+2020,2020-09-01,Employment-Population Ratio,58.4,Hispanic
+2020,2020-04-01,Labor Force Participation Rate,58.5,Black
+2020,2020-01-01,Employment-Population Ratio,58.8,Black
+2020,2020-02-01,Employment-Population Ratio,59.2,Black
+2020,2020-12-01,Employment-Population Ratio,59.4,Hispanic
+2020,2020-05-01,Labor Force Participation Rate,59.5,Black
+2020,2020-10-01,Employment-Population Ratio,59.9,Hispanic
+2020,2020-09-01,Labor Force Participation Rate,59.9,Black
+2020,2020-11-01,Employment-Population Ratio,60.0,Hispanic
+2020,2020-12-01,Labor Force Participation Rate,60.0,Black
+2020,2020-03-01,Employment-Population Ratio,60.1,White
+2020,2020-06-01,Labor Force Participation Rate,60.1,Black
+2020,2020-04-01,Labor Force Participation Rate,60.2,White
+2020,2020-07-01,Labor Force Participation Rate,60.2,Black
+2020,2020-11-01,Labor Force Participation Rate,60.4,Black
+2020,2020-08-01,Labor Force Participation Rate,60.4,Black
+2020,2020-10-01,Labor Force Participation Rate,60.4,Black
+2020,2020-05-01,Labor Force Participation Rate,61.0,White
+2020,2020-01-01,Employment-Population Ratio,61.3,White
+2020,2020-02-01,Employment-Population Ratio,61.3,White
+2020,2020-07-01,Labor Force Participation Rate,61.5,White
+2020,2020-12-01,Labor Force Participation Rate,61.6,White
+2020,2020-11-01,Labor Force Participation Rate,61.6,White
+2020,2020-09-01,Labor Force Participation Rate,61.6,White
+2020,2020-06-01,Labor Force Participation Rate,61.7,White
+2020,2020-03-01,Labor Force Participation Rate,61.7,Black
+2020,2020-08-01,Labor Force Participation Rate,61.7,White
+2020,2020-10-01,Labor Force Participation Rate,61.8,White
+2020,2020-03-01,Labor Force Participation Rate,62.6,White
+2020,2020-01-01,Labor Force Participation Rate,62.8,Black
+2020,2020-02-01,Labor Force Participation Rate,63.0,Black
+2020,2020-03-01,Employment-Population Ratio,63.0,Hispanic
+2020,2020-04-01,Labor Force Participation Rate,63.1,Hispanic
+2020,2020-02-01,Labor Force Participation Rate,63.2,White
+2020,2020-01-01,Labor Force Participation Rate,63.3,White
+2020,2020-05-01,Labor Force Participation Rate,64.2,Hispanic
+2020,2020-02-01,Employment-Population Ratio,64.8,Hispanic
+2020,2020-07-01,Labor Force Participation Rate,64.9,Hispanic
+2020,2020-01-01,Employment-Population Ratio,65.0,Hispanic
+2020,2020-09-01,Labor Force Participation Rate,65.0,Hispanic
+2020,2020-08-01,Labor Force Participation Rate,65.1,Hispanic
+2020,2020-06-01,Labor Force Participation Rate,65.2,Hispanic
+2020,2020-12-01,Labor Force Participation Rate,65.5,Hispanic
+2020,2020-11-01,Labor Force Participation Rate,65.6,Hispanic
+2020,2020-10-01,Labor Force Participation Rate,65.7,Hispanic
+2020,2020-03-01,Labor Force Participation Rate,67.0,Hispanic
+2020,2020-02-01,Labor Force Participation Rate,67.8,Hispanic
+2020,2020-01-01,Labor Force Participation Rate,67.9,Hispanic
+2021,2021-12-01,Unemployment Rate,3.3,White
+2021,2021-11-01,Unemployment Rate,3.7,White
+2021,2021-11-01,Unemployment Rate,3.8,Asian
+2021,2021-12-01,Unemployment Rate,3.8,Asian
+2021,2021-10-01,Unemployment Rate,3.9,White
+2021,2021-10-01,Unemployment Rate,4.1,Asian
+2021,2021-09-01,Unemployment Rate,4.1,Asian
+2021,2021-09-01,Unemployment Rate,4.2,White
+2021,2021-08-01,Unemployment Rate,4.4,Asian
+2021,2021-08-01,Unemployment Rate,4.5,White
+2021,2021-12-01,Unemployment Rate,4.6,Hispanic
+2021,2021-07-01,Unemployment Rate,4.8,White
+2021,2021-11-01,Unemployment Rate,5.0,Hispanic
+2021,2021-02-01,Unemployment Rate,5.1,Asian
+2021,2021-05-01,Unemployment Rate,5.1,White
+2021,2021-06-01,Unemployment Rate,5.2,White
+2021,2021-04-01,Unemployment Rate,5.3,White
+2021,2021-07-01,Unemployment Rate,5.3,Asian
+2021,2021-03-01,Unemployment Rate,5.4,White
+2021,2021-06-01,Unemployment Rate,5.5,Asian
+2021,2021-02-01,Unemployment Rate,5.6,White
+2021,2021-05-01,Unemployment Rate,5.7,Asian
+2021,2021-10-01,Unemployment Rate,5.7,Hispanic
+2021,2021-01-01,Unemployment Rate,5.7,White
+2021,2021-04-01,Unemployment Rate,5.8,Asian
+2021,2021-08-01,Unemployment Rate,6.0,Hispanic
+2021,2021-03-01,Unemployment Rate,6.0,Asian
+2021,2021-09-01,Unemployment Rate,6.2,Hispanic
+2021,2021-07-01,Unemployment Rate,6.4,Hispanic
+2021,2021-11-01,Unemployment Rate,6.4,Black
+2021,2021-01-01,Unemployment Rate,6.7,Asian
+2021,2021-12-01,Unemployment Rate,7.0,Black
+2021,2021-05-01,Unemployment Rate,7.2,Hispanic
+2021,2021-06-01,Unemployment Rate,7.3,Hispanic
+2021,2021-10-01,Unemployment Rate,7.6,Black
+2021,2021-09-01,Unemployment Rate,7.7,Black
+2021,2021-04-01,Unemployment Rate,7.9,Hispanic
+2021,2021-03-01,Unemployment Rate,8.0,Hispanic
+2021,2021-07-01,Unemployment Rate,8.1,Black
+2021,2021-02-01,Unemployment Rate,8.5,Hispanic
+2021,2021-01-01,Unemployment Rate,8.5,Hispanic
+2021,2021-08-01,Unemployment Rate,8.6,Black
+2021,2021-05-01,Unemployment Rate,9.0,Black
+2021,2021-06-01,Unemployment Rate,9.1,Black
+2021,2021-01-01,Unemployment Rate,9.4,Black
+2021,2021-03-01,Unemployment Rate,9.7,Black
+2021,2021-02-01,Unemployment Rate,9.9,Black
+2021,2021-04-01,Unemployment Rate,10.2,Black
+2021,2021-02-01,Employment-Population Ratio,54.0,Black
+2021,2021-01-01,Employment-Population Ratio,54.6,Black
+2021,2021-03-01,Employment-Population Ratio,54.7,Black
+2021,2021-04-01,Employment-Population Ratio,55.0,Black
+2021,2021-05-01,Employment-Population Ratio,55.3,Black
+2021,2021-07-01,Employment-Population Ratio,55.9,Black
+2021,2021-06-01,Employment-Population Ratio,56.0,Black
+2021,2021-08-01,Employment-Population Ratio,56.3,Black
+2021,2021-10-01,Employment-Population Ratio,56.5,Black
+2021,2021-12-01,Employment-Population Ratio,56.6,Black
+2021,2021-09-01,Employment-Population Ratio,56.7,Black
+2021,2021-11-01,Employment-Population Ratio,56.9,Black
+2021,2021-01-01,Employment-Population Ratio,57.8,White
+2021,2021-02-01,Employment-Population Ratio,58.0,White
+2021,2021-03-01,Employment-Population Ratio,58.1,White
+2021,2021-04-01,Employment-Population Ratio,58.2,White
+2021,2021-06-01,Employment-Population Ratio,58.2,White
+2021,2021-05-01,Employment-Population Ratio,58.3,White
+2021,2021-07-01,Employment-Population Ratio,58.6,White
+2021,2021-08-01,Employment-Population Ratio,58.7,White
+2021,2021-09-01,Employment-Population Ratio,58.9,White
+2021,2021-10-01,Employment-Population Ratio,59.1,White
+2021,2021-01-01,Employment-Population Ratio,59.4,Hispanic
+2021,2021-11-01,Employment-Population Ratio,59.4,White
+2021,2021-12-01,Employment-Population Ratio,59.7,White
+2021,2021-02-01,Employment-Population Ratio,59.9,Hispanic
+2021,2021-02-01,Labor Force Participation Rate,60.0,Black
+2021,2021-04-01,Employment-Population Ratio,60.1,Hispanic
+2021,2021-03-01,Employment-Population Ratio,60.2,Hispanic
+2021,2021-01-01,Labor Force Participation Rate,60.3,Black
+2021,2021-05-01,Employment-Population Ratio,60.3,Hispanic
+2021,2021-06-01,Employment-Population Ratio,60.5,Hispanic
+2021,2021-03-01,Labor Force Participation Rate,60.6,Black
+2021,2021-05-01,Labor Force Participation Rate,60.8,Black
+2021,2021-12-01,Labor Force Participation Rate,60.8,Black
+2021,2021-07-01,Labor Force Participation Rate,60.8,Black
+2021,2021-11-01,Labor Force Participation Rate,60.8,Black
+2021,2021-10-01,Labor Force Participation Rate,61.1,Black
+2021,2021-04-01,Labor Force Participation Rate,61.3,Black
+2021,2021-01-01,Labor Force Participation Rate,61.4,White
+2021,2021-06-01,Labor Force Participation Rate,61.4,White
+2021,2021-09-01,Labor Force Participation Rate,61.4,Black
+2021,2021-02-01,Labor Force Participation Rate,61.4,White
+2021,2021-09-01,Labor Force Participation Rate,61.4,White
+2021,2021-03-01,Labor Force Participation Rate,61.4,White
+2021,2021-05-01,Labor Force Participation Rate,61.4,White
+2021,2021-04-01,Labor Force Participation Rate,61.5,White
+2021,2021-10-01,Labor Force Participation Rate,61.5,White
+2021,2021-07-01,Employment-Population Ratio,61.5,Hispanic
+2021,2021-08-01,Labor Force Participation Rate,61.5,White
+2021,2021-08-01,Employment-Population Ratio,61.5,Hispanic
+2021,2021-09-01,Employment-Population Ratio,61.6,Hispanic
+2021,2021-06-01,Labor Force Participation Rate,61.6,Black
+2021,2021-07-01,Labor Force Participation Rate,61.6,White
+2021,2021-08-01,Labor Force Participation Rate,61.6,Black
+2021,2021-11-01,Labor Force Participation Rate,61.7,White
+2021,2021-12-01,Labor Force Participation Rate,61.7,White
+2021,2021-10-01,Employment-Population Ratio,62.1,Hispanic
+2021,2021-12-01,Employment-Population Ratio,62.9,Hispanic
+2021,2021-11-01,Employment-Population Ratio,63.1,Hispanic
+2021,2021-01-01,Labor Force Participation Rate,64.9,Hispanic
+2021,2021-05-01,Labor Force Participation Rate,65.0,Hispanic
+2021,2021-04-01,Labor Force Participation Rate,65.2,Hispanic
+2021,2021-06-01,Labor Force Participation Rate,65.3,Hispanic
+2021,2021-08-01,Labor Force Participation Rate,65.4,Hispanic
+2021,2021-03-01,Labor Force Participation Rate,65.4,Hispanic
+2021,2021-02-01,Labor Force Participation Rate,65.5,Hispanic
+2021,2021-07-01,Labor Force Participation Rate,65.7,Hispanic
+2021,2021-09-01,Labor Force Participation Rate,65.7,Hispanic
+2021,2021-10-01,Labor Force Participation Rate,65.8,Hispanic
+2021,2021-12-01,Labor Force Participation Rate,66.0,Hispanic
+2021,2021-11-01,Labor Force Participation Rate,66.4,Hispanic
+2022,2022-09-01,Unemployment Rate,2.4,Asian
+2022,2022-05-01,Unemployment Rate,2.5,Asian
+2022,2022-12-01,Unemployment Rate,2.5,Asian
+2022,2022-11-01,Unemployment Rate,2.6,Asian
+2022,2022-08-01,Unemployment Rate,2.7,Asian
+2022,2022-07-01,Unemployment Rate,2.7,Asian
+2022,2022-03-01,Unemployment Rate,2.8,Asian
+2022,2022-02-01,Unemployment Rate,2.9,Asian
+2022,2022-06-01,Unemployment Rate,2.9,Asian
+2022,2022-10-01,Unemployment Rate,2.9,Asian
+2022,2022-09-01,Unemployment Rate,3.0,White
+2022,2022-08-01,Unemployment Rate,3.1,White
+2022,2022-04-01,Unemployment Rate,3.1,Asian
+2022,2022-12-01,Unemployment Rate,3.1,White
+2022,2022-07-01,Unemployment Rate,3.1,White
+2022,2022-03-01,Unemployment Rate,3.2,White
+2022,2022-10-01,Unemployment Rate,3.2,White
+2022,2022-05-01,Unemployment Rate,3.2,White
+2022,2022-06-01,Unemployment Rate,3.3,White
+2022,2022-11-01,Unemployment Rate,3.3,White
+2022,2022-02-01,Unemployment Rate,3.3,White
+2022,2022-04-01,Unemployment Rate,3.3,White
+2022,2022-01-01,Unemployment Rate,3.4,White
+2022,2022-01-01,Unemployment Rate,3.6,Asian
+2022,2022-09-01,Unemployment Rate,3.9,Hispanic
+2022,2022-07-01,Unemployment Rate,4.0,Hispanic
+2022,2022-11-01,Unemployment Rate,4.0,Hispanic
+2022,2022-04-01,Unemployment Rate,4.2,Hispanic
+2022,2022-03-01,Unemployment Rate,4.2,Hispanic
+2022,2022-10-01,Unemployment Rate,4.2,Hispanic
+2022,2022-12-01,Unemployment Rate,4.2,Hispanic
+2022,2022-06-01,Unemployment Rate,4.3,Hispanic
+2022,2022-02-01,Unemployment Rate,4.4,Hispanic
+2022,2022-05-01,Unemployment Rate,4.4,Hispanic
+2022,2022-08-01,Unemployment Rate,4.5,Hispanic
+2022,2022-01-01,Unemployment Rate,4.7,Hispanic
+2022,2022-11-01,Unemployment Rate,5.6,Black
+2022,2022-12-01,Unemployment Rate,5.7,Black
+2022,2022-06-01,Unemployment Rate,5.8,Black
+2022,2022-09-01,Unemployment Rate,5.8,Black
+2022,2022-10-01,Unemployment Rate,5.8,Black
+2022,2022-07-01,Unemployment Rate,5.9,Black
+2022,2022-04-01,Unemployment Rate,6.1,Black
+2022,2022-05-01,Unemployment Rate,6.2,Black
+2022,2022-03-01,Unemployment Rate,6.3,Black
+2022,2022-08-01,Unemployment Rate,6.4,Black
+2022,2022-02-01,Unemployment Rate,6.7,Black
+2022,2022-01-01,Unemployment Rate,7.0,Black
+2022,2022-01-01,Employment-Population Ratio,57.6,Black
+2022,2022-02-01,Employment-Population Ratio,57.9,Black
+2022,2022-08-01,Employment-Population Ratio,58.0,Black
+2022,2022-03-01,Employment-Population Ratio,58.0,Black
+2022,2022-07-01,Employment-Population Ratio,58.4,Black
+2022,2022-04-01,Employment-Population Ratio,58.4,Black
+2022,2022-10-01,Employment-Population Ratio,58.5,Black
+2022,2022-09-01,Employment-Population Ratio,58.6,Black
+2022,2022-06-01,Employment-Population Ratio,58.6,Black
+2022,2022-12-01,Employment-Population Ratio,58.9,Black
+2022,2022-11-01,Employment-Population Ratio,58.9,Black
+2022,2022-05-01,Employment-Population Ratio,59.0,Black
+2022,2022-11-01,Employment-Population Ratio,59.8,White
+2022,2022-06-01,Employment-Population Ratio,59.9,White
+2022,2022-07-01,Employment-Population Ratio,59.9,White
+2022,2022-05-01,Employment-Population Ratio,59.9,White
+2022,2022-04-01,Employment-Population Ratio,59.9,White
+2022,2022-01-01,Employment-Population Ratio,59.9,White
+2022,2022-10-01,Employment-Population Ratio,60.0,White
+2022,2022-02-01,Employment-Population Ratio,60.1,White
+2022,2022-08-01,Employment-Population Ratio,60.1,White
+2022,2022-09-01,Employment-Population Ratio,60.1,White
+2022,2022-12-01,Employment-Population Ratio,60.2,White
+2022,2022-03-01,Employment-Population Ratio,60.2,White
+2022,2022-11-01,Labor Force Participation Rate,61.8,White
+2022,2022-01-01,Labor Force Participation Rate,61.9,Black
+2022,2022-05-01,Labor Force Participation Rate,61.9,White
+2022,2022-07-01,Labor Force Participation Rate,61.9,White
+2022,2022-04-01,Labor Force Participation Rate,61.9,White
+2022,2022-06-01,Labor Force Participation Rate,61.9,White
+2022,2022-03-01,Labor Force Participation Rate,61.9,Black
+2022,2022-09-01,Labor Force Participation Rate,62.0,White
+2022,2022-01-01,Labor Force Participation Rate,62.0,White
+2022,2022-02-01,Labor Force Participation Rate,62.0,Black
+2022,2022-08-01,Labor Force Participation Rate,62.0,White
+2022,2022-10-01,Labor Force Participation Rate,62.0,White
+2022,2022-08-01,Labor Force Participation Rate,62.0,Black
+2022,2022-07-01,Labor Force Participation Rate,62.1,Black
+2022,2022-12-01,Labor Force Participation Rate,62.1,White
+2022,2022-10-01,Labor Force Participation Rate,62.1,Black
+2022,2022-02-01,Labor Force Participation Rate,62.2,White
+2022,2022-06-01,Labor Force Participation Rate,62.2,Black
+2022,2022-03-01,Labor Force Participation Rate,62.2,White
+2022,2022-04-01,Labor Force Participation Rate,62.2,Black
+2022,2022-09-01,Labor Force Participation Rate,62.3,Black
+2022,2022-11-01,Labor Force Participation Rate,62.4,Black
+2022,2022-12-01,Labor Force Participation Rate,62.5,Black
+2022,2022-05-01,Labor Force Participation Rate,62.9,Black
+2022,2022-07-01,Employment-Population Ratio,63.1,Hispanic
+2022,2022-01-01,Employment-Population Ratio,63.2,Hispanic
+2022,2022-11-01,Employment-Population Ratio,63.2,Hispanic
+2022,2022-04-01,Employment-Population Ratio,63.3,Hispanic
+2022,2022-05-01,Employment-Population Ratio,63.4,Hispanic
+2022,2022-06-01,Employment-Population Ratio,63.5,Hispanic
+2022,2022-10-01,Employment-Population Ratio,63.5,Hispanic
+2022,2022-09-01,Employment-Population Ratio,63.6,Hispanic
+2022,2022-12-01,Employment-Population Ratio,63.6,Hispanic
+2022,2022-03-01,Employment-Population Ratio,63.6,Hispanic
+2022,2022-02-01,Employment-Population Ratio,63.7,Hispanic
+2022,2022-08-01,Employment-Population Ratio,63.8,Hispanic
+2022,2022-07-01,Labor Force Participation Rate,65.7,Hispanic
+2022,2022-11-01,Labor Force Participation Rate,65.9,Hispanic
+2022,2022-04-01,Labor Force Participation Rate,66.1,Hispanic
+2022,2022-09-01,Labor Force Participation Rate,66.2,Hispanic
+2022,2022-10-01,Labor Force Participation Rate,66.3,Hispanic
+2022,2022-01-01,Labor Force Participation Rate,66.3,Hispanic
+2022,2022-06-01,Labor Force Participation Rate,66.4,Hispanic
+2022,2022-03-01,Labor Force Participation Rate,66.4,Hispanic
+2022,2022-12-01,Labor Force Participation Rate,66.4,Hispanic
+2022,2022-05-01,Labor Force Participation Rate,66.4,Hispanic
+2022,2022-02-01,Labor Force Participation Rate,66.6,Hispanic
+2022,2022-08-01,Labor Force Participation Rate,66.8,Hispanic
+2023,2023-07-01,Unemployment Rate,2.3,Asian
+2023,2023-09-01,Unemployment Rate,2.8,Asian
+2023,2023-01-01,Unemployment Rate,2.9,Asian
+2023,2023-04-01,Unemployment Rate,2.9,Asian
+2023,2023-03-01,Unemployment Rate,2.9,Asian
+2023,2023-05-01,Unemployment Rate,3.0,Asian
+2023,2023-06-01,Unemployment Rate,3.1,White
+2023,2023-08-01,Unemployment Rate,3.1,Asian
+2023,2023-10-01,Unemployment Rate,3.1,Asian
+2023,2023-01-01,Unemployment Rate,3.1,White
+2023,2023-12-01,Unemployment Rate,3.1,Asian
+2023,2023-07-01,Unemployment Rate,3.1,White
+2023,2023-06-01,Unemployment Rate,3.1,Asian
+2023,2023-04-01,Unemployment Rate,3.1,White
+2023,2023-02-01,Unemployment Rate,3.2,White
+2023,2023-11-01,Unemployment Rate,3.3,White
+2023,2023-03-01,Unemployment Rate,3.3,White
+2023,2023-05-01,Unemployment Rate,3.3,White
+2023,2023-09-01,Unemployment Rate,3.4,White
+2023,2023-08-01,Unemployment Rate,3.4,White
+2023,2023-02-01,Unemployment Rate,3.4,Asian
+2023,2023-10-01,Unemployment Rate,3.5,White
+2023,2023-11-01,Unemployment Rate,3.5,Asian
+2023,2023-12-01,Unemployment Rate,3.5,White
+2023,2023-05-01,Unemployment Rate,4.0,Hispanic
+2023,2023-06-01,Unemployment Rate,4.3,Hispanic
+2023,2023-07-01,Unemployment Rate,4.4,Hispanic
+2023,2023-04-01,Unemployment Rate,4.4,Hispanic
+2023,2023-11-01,Unemployment Rate,4.5,Hispanic
+2023,2023-09-01,Unemployment Rate,4.6,Hispanic
+2023,2023-01-01,Unemployment Rate,4.6,Hispanic
+2023,2023-03-01,Unemployment Rate,4.7,Hispanic
+2023,2023-10-01,Unemployment Rate,4.8,Hispanic
+2023,2023-08-01,Unemployment Rate,4.8,Hispanic
+2023,2023-04-01,Unemployment Rate,4.8,Black
+2023,2023-03-01,Unemployment Rate,5.0,Black
+2023,2023-12-01,Unemployment Rate,5.0,Hispanic
+2023,2023-12-01,Unemployment Rate,5.2,Black
+2023,2023-08-01,Unemployment Rate,5.3,Black
+2023,2023-01-01,Unemployment Rate,5.4,Black
+2023,2023-02-01,Unemployment Rate,5.5,Hispanic
+2023,2023-09-01,Unemployment Rate,5.7,Black
+2023,2023-05-01,Unemployment Rate,5.7,Black
+2023,2023-07-01,Unemployment Rate,5.7,Black
+2023,2023-11-01,Unemployment Rate,5.8,Black
+2023,2023-02-01,Unemployment Rate,5.8,Black
+2023,2023-10-01,Unemployment Rate,5.9,Black
+2023,2023-06-01,Unemployment Rate,6.0,Black
+2023,2023-06-01,Employment-Population Ratio,58.9,Black
+2023,2023-07-01,Employment-Population Ratio,59.2,Black
+2023,2023-10-01,Employment-Population Ratio,59.3,Black
+2023,2023-09-01,Employment-Population Ratio,59.4,Black
+2023,2023-08-01,Employment-Population Ratio,59.4,Black
+2023,2023-01-01,Employment-Population Ratio,59.5,Black
+2023,2023-05-01,Employment-Population Ratio,59.6,Black
+2023,2023-02-01,Employment-Population Ratio,59.7,Black
+2023,2023-04-01,Employment-Population Ratio,59.9,Black
+2023,2023-12-01,Employment-Population Ratio,59.9,White
+2023,2023-11-01,Employment-Population Ratio,60.0,Black
+2023,2023-12-01,Employment-Population Ratio,60.1,Black
+2023,2023-10-01,Employment-Population Ratio,60.1,White
+2023,2023-03-01,Employment-Population Ratio,60.1,White
+2023,2023-01-01,Employment-Population Ratio,60.2,White
+2023,2023-02-01,Employment-Population Ratio,60.2,White
+2023,2023-09-01,Employment-Population Ratio,60.2,White
+2023,2023-05-01,Employment-Population Ratio,60.3,White
+2023,2023-04-01,Employment-Population Ratio,60.3,White
+2023,2023-11-01,Employment-Population Ratio,60.3,White
+2023,2023-07-01,Employment-Population Ratio,60.3,White
+2023,2023-08-01,Employment-Population Ratio,60.4,White
+2023,2023-06-01,Employment-Population Ratio,60.4,White
+2023,2023-03-01,Employment-Population Ratio,60.8,Black
+2023,2023-12-01,Labor Force Participation Rate,62.1,White
+2023,2023-01-01,Labor Force Participation Rate,62.1,White
+2023,2023-07-01,Labor Force Participation Rate,62.2,White
+2023,2023-03-01,Labor Force Participation Rate,62.2,White
+2023,2023-02-01,Labor Force Participation Rate,62.2,White
+2023,2023-04-01,Labor Force Participation Rate,62.3,White
+2023,2023-06-01,Labor Force Participation Rate,62.3,White
+2023,2023-10-01,Labor Force Participation Rate,62.3,White
+2023,2023-05-01,Labor Force Participation Rate,62.3,White
+2023,2023-09-01,Labor Force Participation Rate,62.4,White
+2023,2023-11-01,Labor Force Participation Rate,62.4,White
+2023,2023-08-01,Labor Force Participation Rate,62.5,White
+2023,2023-06-01,Labor Force Participation Rate,62.7,Black
+2023,2023-08-01,Labor Force Participation Rate,62.7,Black
+2023,2023-07-01,Labor Force Participation Rate,62.8,Black
+2023,2023-01-01,Labor Force Participation Rate,62.9,Black
+2023,2023-04-01,Labor Force Participation Rate,62.9,Black
+2023,2023-10-01,Labor Force Participation Rate,63.0,Black
+2023,2023-09-01,Labor Force Participation Rate,63.0,Black
+2023,2023-05-01,Labor Force Participation Rate,63.2,Black
+2023,2023-01-01,Employment-Population Ratio,63.3,Hispanic
+2023,2023-02-01,Employment-Population Ratio,63.3,Hispanic
+2023,2023-12-01,Labor Force Participation Rate,63.4,Black
+2023,2023-12-01,Employment-Population Ratio,63.4,Hispanic
+2023,2023-02-01,Labor Force Participation Rate,63.4,Black
+2023,2023-11-01,Labor Force Participation Rate,63.7,Black
+2023,2023-03-01,Employment-Population Ratio,63.7,Hispanic
+2023,2023-04-01,Employment-Population Ratio,63.8,Hispanic
+2023,2023-10-01,Employment-Population Ratio,63.8,Hispanic
+2023,2023-08-01,Employment-Population Ratio,63.9,Hispanic
+2023,2023-03-01,Labor Force Participation Rate,64.0,Black
+2023,2023-11-01,Employment-Population Ratio,64.0,Hispanic
+2023,2023-05-01,Employment-Population Ratio,64.1,Hispanic
+2023,2023-09-01,Employment-Population Ratio,64.2,Hispanic
+2023,2023-06-01,Employment-Population Ratio,64.4,Hispanic
+2023,2023-07-01,Employment-Population Ratio,64.4,Hispanic
+2023,2023-01-01,Labor Force Participation Rate,66.4,Hispanic
+2023,2023-04-01,Labor Force Participation Rate,66.7,Hispanic
+2023,2023-05-01,Labor Force Participation Rate,66.8,Hispanic
+2023,2023-03-01,Labor Force Participation Rate,66.8,Hispanic
+2023,2023-12-01,Labor Force Participation Rate,66.8,Hispanic
+2023,2023-10-01,Labor Force Participation Rate,67.0,Hispanic
+2023,2023-02-01,Labor Force Participation Rate,67.0,Hispanic
+2023,2023-11-01,Labor Force Participation Rate,67.0,Hispanic
+2023,2023-08-01,Labor Force Participation Rate,67.1,Hispanic
+2023,2023-06-01,Labor Force Participation Rate,67.2,Hispanic
+2023,2023-09-01,Labor Force Participation Rate,67.2,Hispanic
+2023,2023-07-01,Labor Force Participation Rate,67.3,Hispanic
+2024,2024-03-01,Unemployment Rate,2.6,Asian
+2024,2024-01-01,Unemployment Rate,2.9,Asian
+2024,2024-04-01,Unemployment Rate,2.9,Asian
+2024,2024-05-01,Unemployment Rate,3.1,Asian
+2024,2024-03-01,Unemployment Rate,3.4,White
+2024,2024-02-01,Unemployment Rate,3.4,Asian
+2024,2024-02-01,Unemployment Rate,3.4,White
+2024,2024-01-01,Unemployment Rate,3.4,White
+2024,2024-12-01,Unemployment Rate,3.5,Asian
+2024,2024-06-01,Unemployment Rate,3.5,White
+2024,2024-04-01,Unemployment Rate,3.5,White
+2024,2024-05-01,Unemployment Rate,3.5,White
+2024,2024-12-01,Unemployment Rate,3.6,White
+2024,2024-07-01,Unemployment Rate,3.7,Asian
+2024,2024-09-01,Unemployment Rate,3.7,White
+2024,2024-10-01,Unemployment Rate,3.8,White
+2024,2024-07-01,Unemployment Rate,3.8,White
+2024,2024-11-01,Unemployment Rate,3.8,Asian
+2024,2024-08-01,Unemployment Rate,3.8,White
+2024,2024-11-01,Unemployment Rate,3.8,White
+2024,2024-10-01,Unemployment Rate,3.9,Asian
+2024,2024-08-01,Unemployment Rate,4.1,Asian
+2024,2024-09-01,Unemployment Rate,4.1,Asian
+2024,2024-06-01,Unemployment Rate,4.1,Asian
+2024,2024-03-01,Unemployment Rate,4.5,Hispanic
+2024,2024-04-01,Unemployment Rate,4.8,Hispanic
+2024,2024-06-01,Unemployment Rate,4.9,Hispanic
+2024,2024-05-01,Unemployment Rate,5.0,Hispanic
+2024,2024-01-01,Unemployment Rate,5.0,Hispanic
+2024,2024-09-01,Unemployment Rate,5.1,Hispanic
+2024,2024-10-01,Unemployment Rate,5.1,Hispanic
+2024,2024-12-01,Unemployment Rate,5.1,Hispanic
+2024,2024-02-01,Unemployment Rate,5.1,Hispanic
+2024,2024-01-01,Unemployment Rate,5.3,Black
+2024,2024-11-01,Unemployment Rate,5.3,Hispanic
+2024,2024-07-01,Unemployment Rate,5.3,Hispanic
+2024,2024-08-01,Unemployment Rate,5.4,Hispanic
+2024,2024-04-01,Unemployment Rate,5.6,Black
+2024,2024-02-01,Unemployment Rate,5.6,Black
+2024,2024-09-01,Unemployment Rate,5.7,Black
+2024,2024-10-01,Unemployment Rate,5.7,Black
+2024,2024-05-01,Unemployment Rate,6.1,Black
+2024,2024-08-01,Unemployment Rate,6.1,Black
+2024,2024-12-01,Unemployment Rate,6.1,Black
+2024,2024-06-01,Unemployment Rate,6.3,Black
+2024,2024-07-01,Unemployment Rate,6.3,Black
+2024,2024-11-01,Unemployment Rate,6.4,Black
+2024,2024-03-01,Unemployment Rate,6.4,Black
+2024,2024-11-01,Employment-Population Ratio,58.5,Black
+2024,2024-12-01,Employment-Population Ratio,58.6,Black
+2024,2024-06-01,Employment-Population Ratio,58.8,Black
+2024,2024-08-01,Employment-Population Ratio,58.9,Black
+2024,2024-05-01,Employment-Population Ratio,59.1,Black
+2024,2024-07-01,Employment-Population Ratio,59.2,Black
+2024,2024-09-01,Employment-Population Ratio,59.2,Black
+2024,2024-10-01,Employment-Population Ratio,59.3,Black
+2024,2024-03-01,Employment-Population Ratio,59.4,Black
+2024,2024-04-01,Employment-Population Ratio,59.6,Black
+2024,2024-11-01,Employment-Population Ratio,59.8,White
+2024,2024-10-01,Employment-Population Ratio,59.8,White
+2024,2024-12-01,Employment-Population Ratio,59.9,White
+2024,2024-06-01,Employment-Population Ratio,60.0,White
+2024,2024-07-01,Employment-Population Ratio,60.0,White
+2024,2024-05-01,Employment-Population Ratio,60.0,White
+2024,2024-02-01,Employment-Population Ratio,60.0,White
+2024,2024-01-01,Employment-Population Ratio,60.0,White
+2024,2024-08-01,Employment-Population Ratio,60.0,White
+2024,2024-01-01,Employment-Population Ratio,60.0,Black
+2024,2024-02-01,Employment-Population Ratio,60.1,Black
+2024,2024-09-01,Employment-Population Ratio,60.1,White
+2024,2024-04-01,Employment-Population Ratio,60.2,White
+2024,2024-03-01,Employment-Population Ratio,60.2,White
+2024,2024-11-01,Labor Force Participation Rate,62.1,White
+2024,2024-01-01,Labor Force Participation Rate,62.1,White
+2024,2024-02-01,Labor Force Participation Rate,62.1,White
+2024,2024-12-01,Labor Force Participation Rate,62.2,White
+2024,2024-10-01,Labor Force Participation Rate,62.2,White
+2024,2024-05-01,Labor Force Participation Rate,62.2,White
+2024,2024-06-01,Labor Force Participation Rate,62.2,White
+2024,2024-07-01,Labor Force Participation Rate,62.3,White
+2024,2024-03-01,Labor Force Participation Rate,62.3,White
+2024,2024-04-01,Labor Force Participation Rate,62.3,White
+2024,2024-08-01,Labor Force Participation Rate,62.3,White
+2024,2024-09-01,Labor Force Participation Rate,62.4,White
+2024,2024-12-01,Labor Force Participation Rate,62.4,Black
+2024,2024-11-01,Labor Force Participation Rate,62.4,Black
+2024,2024-06-01,Labor Force Participation Rate,62.7,Black
+2024,2024-08-01,Labor Force Participation Rate,62.7,Black
+2024,2024-09-01,Labor Force Participation Rate,62.8,Black
+2024,2024-10-01,Labor Force Participation Rate,62.9,Black
+2024,2024-05-01,Labor Force Participation Rate,62.9,Black
+2024,2024-04-01,Labor Force Participation Rate,63.1,Black
+2024,2024-07-01,Labor Force Participation Rate,63.1,Black
+2024,2024-11-01,Employment-Population Ratio,63.4,Hispanic
+2024,2024-01-01,Labor Force Participation Rate,63.4,Black
+2024,2024-10-01,Employment-Population Ratio,63.5,Hispanic
+2024,2024-01-01,Employment-Population Ratio,63.5,Hispanic
+2024,2024-03-01,Labor Force Participation Rate,63.5,Black
+2024,2024-07-01,Employment-Population Ratio,63.7,Hispanic
+2024,2024-02-01,Labor Force Participation Rate,63.7,Black
+2024,2024-02-01,Employment-Population Ratio,63.7,Hispanic
+2024,2024-03-01,Employment-Population Ratio,63.8,Hispanic
+2024,2024-09-01,Employment-Population Ratio,63.9,Hispanic
+2024,2024-05-01,Employment-Population Ratio,63.9,Hispanic
+2024,2024-04-01,Employment-Population Ratio,64.1,Hispanic
+2024,2024-08-01,Employment-Population Ratio,64.1,Hispanic
+2024,2024-12-01,Employment-Population Ratio,64.1,Hispanic
+2024,2024-06-01,Employment-Population Ratio,64.2,Hispanic
+2024,2024-03-01,Labor Force Participation Rate,66.9,Hispanic
+2024,2024-01-01,Labor Force Participation Rate,66.9,Hispanic
+2024,2024-11-01,Labor Force Participation Rate,66.9,Hispanic
+2024,2024-10-01,Labor Force Participation Rate,67.0,Hispanic
+2024,2024-02-01,Labor Force Participation Rate,67.1,Hispanic
+2024,2024-04-01,Labor Force Participation Rate,67.3,Hispanic
+2024,2024-07-01,Labor Force Participation Rate,67.3,Hispanic
+2024,2024-05-01,Labor Force Participation Rate,67.3,Hispanic
+2024,2024-09-01,Labor Force Participation Rate,67.4,Hispanic
+2024,2024-12-01,Labor Force Participation Rate,67.5,Hispanic
+2024,2024-06-01,Labor Force Participation Rate,67.5,Hispanic
+2024,2024-08-01,Labor Force Participation Rate,67.8,Hispanic
+2025,2025-04-01,Unemployment Rate,3.0,Asian
+2025,2025-02-01,Unemployment Rate,3.2,Asian
+2025,2025-06-01,Unemployment Rate,3.5,Asian
+2025,2025-03-01,Unemployment Rate,3.5,Asian
+2025,2025-01-01,Unemployment Rate,3.5,White
+2025,2025-06-01,Unemployment Rate,3.6,White
+2025,2025-05-01,Unemployment Rate,3.6,Asian
+2025,2025-01-01,Unemployment Rate,3.7,Asian
+2025,2025-03-01,Unemployment Rate,3.7,White
+2025,2025-04-01,Unemployment Rate,3.8,White
+2025,2025-05-01,Unemployment Rate,3.8,White
+2025,2025-02-01,Unemployment Rate,3.8,White
+2025,2025-01-01,Unemployment Rate,4.8,Hispanic
+2025,2025-06-01,Unemployment Rate,4.8,Hispanic
+2025,2025-03-01,Unemployment Rate,5.1,Hispanic
+2025,2025-05-01,Unemployment Rate,5.1,Hispanic
+2025,2025-02-01,Unemployment Rate,5.2,Hispanic
+2025,2025-04-01,Unemployment Rate,5.2,Hispanic
+2025,2025-02-01,Unemployment Rate,6.0,Black
+2025,2025-05-01,Unemployment Rate,6.0,Black
+2025,2025-01-01,Unemployment Rate,6.2,Black
+2025,2025-03-01,Unemployment Rate,6.2,Black
+2025,2025-04-01,Unemployment Rate,6.3,Black
+2025,2025-06-01,Unemployment Rate,6.8,Black
+2025,2025-06-01,Employment-Population Ratio,57.7,Black
+2025,2025-04-01,Employment-Population Ratio,58.2,Black
+2025,2025-05-01,Employment-Population Ratio,58.3,Black
+2025,2025-03-01,Employment-Population Ratio,58.4,Black
+2025,2025-01-01,Employment-Population Ratio,58.6,Black
+2025,2025-02-01,Employment-Population Ratio,58.9,Black
+2025,2025-05-01,Employment-Population Ratio,59.6,White
+2025,2025-02-01,Employment-Population Ratio,59.7,White
+2025,2025-06-01,Employment-Population Ratio,59.7,White
+2025,2025-03-01,Employment-Population Ratio,59.8,White
+2025,2025-04-01,Employment-Population Ratio,59.9,White
+2025,2025-01-01,Employment-Population Ratio,60.1,White
+2025,2025-06-01,Labor Force Participation Rate,61.9,Black
+2025,2025-06-01,Labor Force Participation Rate,61.9,White
+2025,2025-05-01,Labor Force Participation Rate,62.0,White
+2025,2025-05-01,Labor Force Participation Rate,62.0,Black
+2025,2025-04-01,Labor Force Participation Rate,62.1,Black
+2025,2025-03-01,Labor Force Participation Rate,62.1,White
+2025,2025-02-01,Labor Force Participation Rate,62.1,White
+2025,2025-03-01,Labor Force Participation Rate,62.2,Black
+2025,2025-01-01,Labor Force Participation Rate,62.3,White
+2025,2025-04-01,Labor Force Participation Rate,62.3,White
+2025,2025-01-01,Labor Force Participation Rate,62.5,Black
+2025,2025-02-01,Labor Force Participation Rate,62.7,Black
+2025,2025-02-01,Employment-Population Ratio,63.4,Hispanic
+2025,2025-01-01,Employment-Population Ratio,63.6,Hispanic
+2025,2025-06-01,Employment-Population Ratio,63.6,Hispanic
+2025,2025-05-01,Employment-Population Ratio,63.7,Hispanic
+2025,2025-04-01,Employment-Population Ratio,63.8,Hispanic
+2025,2025-03-01,Employment-Population Ratio,63.8,Hispanic
+2025,2025-06-01,Labor Force Participation Rate,66.8,Hispanic
+2025,2025-01-01,Labor Force Participation Rate,66.8,Hispanic
+2025,2025-02-01,Labor Force Participation Rate,66.9,Hispanic
+2025,2025-03-01,Labor Force Participation Rate,67.2,Hispanic
+2025,2025-05-01,Labor Force Participation Rate,67.2,Hispanic
+2025,2025-04-01,Labor Force Participation Rate,67.3,Hispanic

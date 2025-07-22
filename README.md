@@ -1,38 +1,40 @@
-# sv
+# Employment Scrollytelling Website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This project is a Svelte-powered scrollytelling experience that visualizes employment-population ratios across different racial and ethnic groups as part of the KWK x BWDC 2025 Challenge. As you scroll through the site, interactive charts and maps gradually reveal how geography, industry, wages, and transportation intersect with employment trends,uncovering ethnic disparities and guiding deeper understanding.
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Project Structure
 
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+```txt
+employment-scrollytelling/
+├── public/
+│   ├── employment_data.json              # Cleaned data for all groups
+│   └── combined_employment_data.json     # Overall employment trend
+├── src/
+│   ├── components/
+│   │   └── EmploymentScrollytelling.svelte  # Main visualization component
+│   └── App.svelte                         # App entry point
+├── data_cleaner.js                        # Script to clean and format raw CSV
+├── static/
+│   └── your-original-raw.csv              # Source CSV data file
+├── package.json                           # Project dependencies and scripts
+├── vite.config.js                         # Vite dev/build configuration
+└── README.md                              # This file
 ```
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Built With
 
-```bash
-npm run dev
+- [Svelte](https://svelte.dev/)
+- [D3.js](https://d3js.org/)
+- [Vite](https://vitejs.dev/)
+- [IntersectionObserver API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [Node.js](https://nodejs.org/) for data cleaning
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+---
 
-## Building
+## Author
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Haley Oba

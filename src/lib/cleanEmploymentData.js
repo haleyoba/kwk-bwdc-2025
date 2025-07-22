@@ -1,5 +1,4 @@
 // cleanEmploymentData.js
-import * as d3 from "d3";
 
 export async function loadCleanedEmploymentData(csvUrl) {
   // Load the CSV
